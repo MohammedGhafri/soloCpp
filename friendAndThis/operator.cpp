@@ -19,6 +19,12 @@ class MyClass {
 int main() {
     MyClass obj1(12), obj2(55);
     MyClass res = obj2+obj1;
+    // // void MyClass::getname(){
+
+    // };
 
     cout << res.var;
+}
+void getname(){
+
 }
