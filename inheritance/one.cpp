@@ -19,6 +19,7 @@ Destructors
 The derived class destructor is called first, and then the base class destructor gets called.
 This sequence makes it possible to specify initialization and de-initialization scenarios for your derived classes.
 */
+/**/
 class Mother {
     public:
         Mother() 
